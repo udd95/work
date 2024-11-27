@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ol,
+ul,
+li {
+  list-style: none;
+}
+img {
+  vertical-align: top;
+}
+a {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+button {
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: inherit;
+}
